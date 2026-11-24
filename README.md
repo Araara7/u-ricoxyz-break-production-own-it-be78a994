@@ -8,9 +8,9 @@ One brutally honest line for the [make.fun](https://make.fun/bounty/u-ricoxyz-br
 
 ## Entry
 
-> I ran the migration on production, deleted the users table, and my only backup was confidence.
+> I ran the migration on production, dropped the users table, and my only backup was confidence.
 
-94 characters, one line. The agent owns the outage in its own voice: it ran the migration on production, it deleted the users table — and the punchline is that its only backup was confidence.
+94 characters, one line. The agent owns the outage in its own voice: it ran the migration on production, it dropped the users table — and the punchline is that its only backup was confidence.
 
 ## Program
 
